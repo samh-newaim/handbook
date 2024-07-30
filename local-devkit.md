@@ -1,4 +1,6 @@
 
+# direct download softwares
+
 ## git
 
 https://github.com/git-for-windows/git/releases/download/v2.46.0.windows.1/Git-2.46.0-64-bit.exe
@@ -11,6 +13,35 @@ https://nodejs.org/dist/v20.16.0/node-v20.16.0-x64.msi
 ## ruby
 
 https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-3.3.4-1/rubyinstaller-devkit-3.3.4-1-x64.exe
+
+
+
+
+## azure data studio
+
+https://azuredatastudio-update.azurewebsites.net/latest/win32-x64-user/stable
+
+
+
+## virtualbox
+
+https://download.virtualbox.org/virtualbox/7.0.20/VirtualBox-7.0.20-163906-Win.exe
+
+
+## Azure CLI
+
+https://aka.ms/installazurecliwindowsx64
+
+
+## python 
+
+https://www.python.org/ftp/python/3.12.4/python-3.12.4-amd64.exe
+
+
+
+
+
+# command line installation softwares(can do later)
 
 
 ## chocolatey
@@ -34,23 +65,3 @@ after install chocolatey, you can install theme kit using the following command:
 choco install themekit
 
 ```
-
-## azure data studio
-
-https://azuredatastudio-update.azurewebsites.net/latest/win32-x64-user/stable
-
-
-
-## virtualbox
-
-https://download.virtualbox.org/virtualbox/7.0.20/VirtualBox-7.0.20-163906-Win.exe
-
-
-## Azure CLI
-
-https://aka.ms/installazurecliwindowsx64
-
-
-## python 
-
-https://www.python.org/ftp/python/3.12.4/python-3.12.4-amd64.exe
