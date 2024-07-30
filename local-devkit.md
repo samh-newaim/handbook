@@ -46,7 +46,7 @@ https://azuredatastudio-update.azurewebsites.net/latest/win32-x64-user/stable
 https://download.virtualbox.org/virtualbox/7.0.20/VirtualBox-7.0.20-163906-Win.exe
 
 
-## aure CLI
+## Azure CLI
 
 https://aka.ms/installazurecliwindowsx64
 
